@@ -17,14 +17,14 @@ from datetime import datetime
 # ═══════════════════════════════════════════════════════════════
 
 # Получи токен у @BotFather в Telegram
-TELEGRAM_TOKEN = "YOUR_TELEGRAM_BOT_TOKEN"  # ← ВСТАВЬ ТОКЕН БОТА
+TELEGRAM_TOKEN = "8569249967:AAHoeRpF85aIAcAvzQfUREvNOdw_KWLCk28"  # ← ВСТАВЬ ТОКЕН БОТА
 
 # Твой Telegram ID (узнай у @userinfobot)
-ADMIN_IDS = [123456789]  # ← ВСТАВЬ СВОЙ ID
+ADMIN_IDS = [1833222747]  # ← ВСТАВЬ СВОЙ ID
 
 # API сервера
 API_URL = "http://localhost:5000/api"  # ← ИЗМЕНИ НА СВОЙ СЕРВЕР
-API_SECRET = "YOUR_SECRET_KEY_CHANGE_ME_123456789"  # ← ТОТ ЖЕ ЧТО В auth_server
+API_SECRET = "G_SECRET_KEY_CHANGE_ME_123456789"  # ← ТОТ ЖЕ ЧТО В auth_server
 
 # ═══════════════════════════════════════════════════════════════
 # БОТ
